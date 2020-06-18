@@ -21,6 +21,6 @@ REST API должно работать с форматом данных JSON.
 В качестве хранилища данных нужно использовать файл в формате JSON.
 
 How to test:
-
-1) python3 server.py
-2) python3 requests_test.py
+1) pip install -r requirements.txt
+2) python3 server.py
+3) python3 requests_test.py
